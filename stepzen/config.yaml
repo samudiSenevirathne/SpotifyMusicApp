@@ -1,0 +1,8 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://music_owner:WmYnqS1w5zNH@ep-divine-snowflake-a5ykrgrb.us-east-2.aws.neon.tech/music?sslmode=require
+  - configuration:
+      name: auth_config
+      client_id: 00b7d3f473804e34b4a5325afd09b448
+      client_secret: a7734167546548adbcf6ddb0adab12c1
